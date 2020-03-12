@@ -1,0 +1,6 @@
+[18-Feb-2020 06:10:19 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/eirnex/public_html/includes/signup.inc.php on line 55
+[25-Feb-2020 02:34:40 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eirnex/public_html/includes/signup.inc.php on line 168
+[25-Feb-2020 02:35:34 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eirnex/public_html/includes/signup.inc.php on line 171
+[25-Feb-2020 02:38:07 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eirnex/public_html/includes/signup.inc.php on line 171
+[25-Feb-2020 02:40:43 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eirnex/public_html/includes/signup.inc.php on line 173
+[25-Feb-2020 02:41:06 UTC] PHP Warning:  mysqli_stmt_bind_param(): Number of elements in type definition string doesn't match number of bind variables in /home/eirnex/public_html/includes/signup.inc.php on line 173
